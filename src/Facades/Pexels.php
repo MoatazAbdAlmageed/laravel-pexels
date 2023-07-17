@@ -1,6 +1,6 @@
 <?php
 
-namespace Jpereira\Pexels\Facades;
+namespace joaquinpereira\Pexels\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

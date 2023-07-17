@@ -1,9 +1,9 @@
 <?php
 
-namespace Jpereira\Pexels;
+namespace joaquinpereira\Pexels;
 
-use Jpereira\Pexels\Services\PhotoClientService;
-use Jpereira\Pexels\Services\VideoClientService;
+use joaquinpereira\Pexels\Services\PhotoClientService;
+use joaquinpereira\Pexels\Services\VideoClientService;
 
 class Pexels implements PexelsInterface
 {

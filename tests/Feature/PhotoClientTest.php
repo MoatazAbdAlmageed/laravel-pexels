@@ -1,11 +1,11 @@
 <?php 
 
-namespace Jpereira\Pexels\Tests\Feature;
+namespace joaquinpereira\Pexels\Tests\Feature;
 
-use Jpereira\Pexels\Tests\TestCase;
-use Jpereira\Pexels\Facades\Pexels;
-use Jpereira\Pexels\Models\Photo;
-use Jpereira\Pexels\Models\PhotoSize;
+use joaquinpereira\Pexels\Tests\TestCase;
+use joaquinpereira\Pexels\Facades\Pexels;
+use joaquinpereira\Pexels\Models\Photo;
+use joaquinpereira\Pexels\Models\PhotoSize;
 
 class PhotoClientTest extends TestCase
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Jpereira\Pexels\Providers;
+namespace joaquinpereira\Pexels\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Jpereira\Pexels\Pexels;
+use joaquinpereira\Pexels\Pexels;
 
 
 class PexelsServiceProvider extends ServiceProvider

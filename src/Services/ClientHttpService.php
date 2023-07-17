@@ -1,10 +1,10 @@
 <?php
 
-namespace Jpereira\Pexels\Services;
+namespace joaquinpereira\Pexels\Services;
 
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\Http;
-use Jpereira\Pexels\Enums\ModelTypes;
+use joaquinpereira\Pexels\Enums\ModelTypes;
 use Exception;
 
 

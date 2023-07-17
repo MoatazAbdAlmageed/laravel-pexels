@@ -1,6 +1,6 @@
 <?php
 
-namespace Jpereira\Pexels;
+namespace joaquinpereira\Pexels;
 
 interface PexelsInterface
 {
@@ -30,7 +30,7 @@ interface PexelsInterface
     /** 
      * Search for a specific Photo with its identifier.
      * @param number $id The id of the photo you are requesting.     
-     * @return \Jpereira\Pexels\Models\Photo Returns a Photo object
+     * @return \joaquinpereira\Pexels\Models\Photo Returns a Photo object
      */
     public function image_detail($id);
 
@@ -65,7 +65,7 @@ interface PexelsInterface
     /** 
      * Search for a specific Video with its identifier.
      * @param number $id The id of the photo you are requesting.
-     * @return \Jpereira\Pexels\Models\Video Returns a Video object
+     * @return \joaquinpereira\Pexels\Models\Video Returns a Video object
      */
     public function video_detail($id);
 

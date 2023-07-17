@@ -1,9 +1,9 @@
 <?php
 
-namespace Jpereira\Pexels\Services;
+namespace joaquinpereira\Pexels\Services;
 
-use Jpereira\Pexels\Enums\ModelTypes;
-use Jpereira\Pexels\Models\Video;
+use joaquinpereira\Pexels\Enums\ModelTypes;
+use joaquinpereira\Pexels\Models\Video;
 
 class VideoClientService extends ClientHttpService
 {

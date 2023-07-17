@@ -1,6 +1,6 @@
 <?php 
 
-namespace Jpereira\Pexels\Enums;
+namespace joaquinpereira\Pexels\Enums;
 enum ModelTypes: string
 {
     case PHOTO = 'photo';

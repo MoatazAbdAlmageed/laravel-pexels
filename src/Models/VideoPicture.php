@@ -1,6 +1,6 @@
 <?php
 
-namespace Jpereira\Pexels\Models;
+namespace joaquinpereira\Pexels\Models;
 
 class VideoPicture
 {

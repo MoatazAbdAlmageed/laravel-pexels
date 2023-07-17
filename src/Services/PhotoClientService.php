@@ -1,9 +1,9 @@
 <?php
 
-namespace Jpereira\Pexels\Services;
+namespace joaquinpereira\Pexels\Services;
 
-use Jpereira\Pexels\Models\Photo;
-use Jpereira\Pexels\Enums\ModelTypes;
+use joaquinpereira\Pexels\Models\Photo;
+use joaquinpereira\Pexels\Enums\ModelTypes;
 
 
 class PhotoClientService extends ClientHttpService

@@ -1,13 +1,13 @@
 <?php 
 
-namespace Jpereira\Pexels\Tests\Feature;
+namespace joaquinpereira\Pexels\Tests\Feature;
 
-use Jpereira\Pexels\Tests\TestCase;
-use Jpereira\Pexels\Facades\Pexels;
-use Jpereira\Pexels\Models\User;
-use Jpereira\Pexels\Models\Video;
-use Jpereira\Pexels\Models\VideoFile;
-use Jpereira\Pexels\Models\VideoPicture;
+use joaquinpereira\Pexels\Tests\TestCase;
+use joaquinpereira\Pexels\Facades\Pexels;
+use joaquinpereira\Pexels\Models\User;
+use joaquinpereira\Pexels\Models\Video;
+use joaquinpereira\Pexels\Models\VideoFile;
+use joaquinpereira\Pexels\Models\VideoPicture;
 
 class VideoClientTest extends TestCase
 {
