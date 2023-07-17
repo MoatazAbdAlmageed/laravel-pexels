@@ -15,7 +15,7 @@ class TestCase extends BaseTestCase
 
     protected function getEnvironmentSetUp($app)
     {
-        $app['config']->set('pexels.api_key', '8iYPj6brefgJ4XbiRBmEP3oxlgrRHMy1KSD7xoKqAc5nzI2ipVoJikcp');
+        $app['config']->set('pexels.api_key', '');
     }
 
     protected function getPackageProviders($app)
