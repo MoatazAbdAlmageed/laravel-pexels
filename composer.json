@@ -1,5 +1,5 @@
 {
-    "name": "jpereira/pexels",
+    "name": "joaquinpereira/laravel-pexels",
     "description": "library to consume the pexels api (https://www.pexels.com/)",
     "version": "1.0.2.1",
     "require": {        
@@ -8,12 +8,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Jpereira\\Pexels\\": "src/"
+            "joaquinpereira\\Pexels\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Jpereira\\Pexels\\Tests\\": "tests/"
+            "joaquinpereira\\Pexels\\Tests\\": "tests/"
         }
     },
     "authors": [
@@ -30,7 +30,7 @@
     "extra": {        
         "laravel": {
             "providers": [
-                "Jpereira\\Pexels\\Providers\\PexelsServiceProvider"
+                "joaquinpereira\\Pexels\\Providers\\PexelsServiceProvider"
             ]
         }
     }
